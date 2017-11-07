@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bestEasyListViewContent">
+        <item>只加载文字（使用ArrayAdapter）</item>
+        <item>定制ListView的子项界面</item>
+        <item>在listView2基础上提升加载效率</item>
+        <item>使用BaseAdapter(recyclerview适配器相似)</item>
+        <item>listView的各种属性和方法</item>
+    </string-array>
+</resources>
